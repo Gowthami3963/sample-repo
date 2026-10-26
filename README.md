@@ -1,3 +1,3 @@
 # Demo
 
-Hey! this is Gowthami. Practicing github.
+Hey! this is Gowthami.
